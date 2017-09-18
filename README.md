@@ -9,3 +9,5 @@ https://github.com/certsocietegenerale/FIR
 https://github.com/ionelmc/python-hunter  
 http://www.capstone-engine.org/showcase.html  
 https://www.staticgen.com/  
+https://github.com/ionelmc/python-hunter  
+https://github.com/robdmc/behold  

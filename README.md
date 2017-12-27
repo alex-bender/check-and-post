@@ -18,5 +18,6 @@ https://google.github.io/flatbuffers/
 https://unix.stackexchange.com/a/118849/125413  chattr and lsattr  
 https://github.com/hchasestevens/show_ast  python ast  
 https://towardsdatascience.com/beautiful-data-science-presentations-9e9d8fd91446 for presentations  
-https://www.geogebra.org/  for crypto explanations (tls explanation)  
+https://www.geogebra.org/ for crypto explanations (tls explanation)  
 https://github.com/ibrennan/Parse-Cloud-Code-Cache-Tweets interaction with twitter and parse  
+https://github.com/paylogic/py2deb what's the abilities? Is it possible to pack a large project?  

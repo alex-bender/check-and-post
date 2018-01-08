@@ -21,3 +21,4 @@ https://towardsdatascience.com/beautiful-data-science-presentations-9e9d8fd91446
 https://www.geogebra.org/ for crypto explanations (tls explanation)  
 https://github.com/ibrennan/Parse-Cloud-Code-Cache-Tweets interaction with twitter and parse  
 https://github.com/paylogic/py2deb what's the abilities? Is it possible to pack a large project?  
+https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/ Ckeck tools for development purposes  

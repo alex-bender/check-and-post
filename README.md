@@ -23,3 +23,4 @@ https://github.com/ibrennan/Parse-Cloud-Code-Cache-Tweets interaction with twitt
 https://github.com/paylogic/py2deb what's the abilities? Is it possible to pack a large project?  
 https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/ Ckeck tools for development purposes  
 http://unit.nginx.org/  Check (for python)  
+https://skade.github.io/rust-three-days-course/presentation/?locale=en-US#/  Rust

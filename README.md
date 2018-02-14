@@ -26,3 +26,4 @@ http://unit.nginx.org/  Check (for python)
 https://skade.github.io/rust-three-days-course/presentation/?locale=en-US#/  Rust  
 https://github.com/Miserlou/Zappa -- deploy deploy (serverless)  
 https://zercurity.com -- monitoring with `osquery`  
+https://github.com/rafaels88/software-development-resources  

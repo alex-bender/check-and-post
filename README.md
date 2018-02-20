@@ -28,3 +28,4 @@ https://github.com/Miserlou/Zappa -- deploy deploy (serverless)
 https://zercurity.com -- monitoring with `osquery`  
 https://github.com/rafaels88/software-development-resources  
 https://github.com/fiatjaf/trackingco.de analytics (self-hosted)  
+https://github.com/micheloosterhof/cowrie ssh honeypot  

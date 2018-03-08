@@ -29,3 +29,4 @@ https://zercurity.com -- monitoring with `osquery`
 https://github.com/rafaels88/software-development-resources  
 https://github.com/fiatjaf/trackingco.de analytics (self-hosted)  
 https://github.com/micheloosterhof/cowrie ssh honeypot  
+https://github.com/aerospike/aerospike-server  benchmark it  
